@@ -1,3 +1,5 @@
+**Developed by:** Mohamed Riyaz Khan – [nmohamedriyazkhan@gmail.com](mailto:nmohamedriyazkhan@gmail.com)  
+**Submitted to:** Jameel Abdul Ahamed – [jameel.abdul@ee-consultant.com](mailto:jameel.abdul@ee-consultant.com)
 # abacus-ai-tutor
 A specialized AI-powered educational tool for mastering mental arithmetic. Features local LLM integration (Llama 3), real-time voice transcription (Whisper), and an interactive Canvas-based Soroban abacus.
 # Abacus Tutor: AI Virtual Assistant for Mental Arithmetic
